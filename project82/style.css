@@ -1,0 +1,21 @@
+.body_backgrounds{
+    background-image: url("CanvasArt.jpg");
+    background-size: cover;
+}
+canvas {
+    border-radius: 20px;
+    border-width:10px;
+    border-style:ridge;
+    background-color: white;
+}
+button {
+    border-radius:20px;
+    padding:5px;
+    font-size:20px;
+    background-color: red;
+    color: white;
+    border-style: dashed;
+    border-width:3px;
+    border-color: white;
+    width: 300px;
+}
